@@ -4,7 +4,8 @@
   "info": {
     "singularName": "product-configuration",
     "pluralName": "product-configurations",
-    "displayName": "ProductConfiguration"
+    "displayName": "ProductConfiguration",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -21,7 +22,7 @@
       "type": "string"
     },
     "authToken": {
-      "type": "string"
+      "type": "text"
     }
   }
 }
